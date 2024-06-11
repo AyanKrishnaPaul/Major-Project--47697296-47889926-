@@ -1,0 +1,7 @@
+langchain
+langchain_experimental
+pymysql
+sentence-transformers
+chromadb
+langchain_community
+google-generativeai
